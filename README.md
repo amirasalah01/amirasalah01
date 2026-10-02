@@ -44,6 +44,8 @@ I enjoy taking an application from code to a reliable deployment, and understand
 
 ### 🧩 Development
 * Python (Django REST Framework, Flask)
+* Java (Spring Boot, Maven)
+* Angular
 * React / Vite
 * REST APIs, OAuth2
 * Bash
@@ -69,12 +71,12 @@ I enjoy taking an application from code to a reliable deployment, and understand
 ## 📂 Featured projects
 
 | Project | Description | Stack |
-|---|---|---|
-| **Rentify** | Cloud-native rental platform on a Multi-AZ AWS architecture, with a CI/CD pipeline that includes security scanning and monitoring | AWS · GitHub Actions · Trivy · Docker · Prometheus · Grafana |
-| **Azure DevOps CI/CD** | Multi-stage Azure pipeline for a Django + React + PostgreSQL app, with test and production environments and manual approval | Azure Pipelines · Django · React · PostgreSQL |
-| **n8n HR automation** | HR onboarding and leave-approval workflows with automatic document generation and Slack notifications | n8n · Airtable · Gmail API · Google Docs · Slack |
-| **CloudNotes CI/CD** | Containerized Flask app with GitLab CI and Jenkins pipelines | Flask · Docker Compose · GitLab CI · Jenkins |
-| **Linux server labs** | Linux server administration: DNS, DHCP, Samba, Apache HTTPS, SSH hardening and firewall | Ubuntu · BIND9 · Apache · UFW |
+
+| [**rentify**](https://github.com/amirasalah01/ren) | Cloud-native rental platform on a Multi-AZ AWS architecture, with a CI/CD pipeline that includes security scanning and monitoring | AWS · GitHub Actions · Trivy · Docker · Prometheus · Grafana |
+| [**azure-devops-cicd-demo**](https://github.com/amirasalah01/azure-devops-cicd-demo) | Multi-stage Azure pipeline for a Django + React + PostgreSQL app, with test and production environments and manual approval | Azure Pipelines · Django · React · PostgreSQL |
+| [**n8n-hr-automation** HR onboarding and leave-approval workflows with automatic document generation and Slack notifications | n8n · Airtable · Gmail API · Google Docs · Slack |
+| [**cloudnotes-cicd** Containerized Flask app with GitLab CI and Jenkins pipelines | Flask · Docker Compose · GitLab CI · Jenkins |
+| [**linux-server-labs** Linux server administration: DNS, DHCP, Samba, Apache HTTPS, SSH hardening and firewall | Ubuntu · BIND9 · Apache · UFW |
 
 More production-like demos are coming soon.
 
@@ -84,6 +86,7 @@ More production-like demos are coming soon.
 
 * **DevOps Intern — LEONI** (Sousse, Tunisia): built and troubleshot a complete Azure DevOps CI/CD pipeline, with self-hosted agents, separate test and production environments, and a manual approval gate before production
 * **Workflow Automation Intern — Job Gate**: built 2 n8n workflows integrating Airtable, Gmail, Google Docs/Drive and Slack
+* **End-of-studies Intern (Bachelor) — Billcom Consulting**: team-built a web app to monitor mobile-plan processes, inspired by jBPM (Angular, Spring Boot, Maven)
 * 🏆 **3rd place at a hackathon** with the N3ma mobile app prototype
 
 ---
@@ -92,7 +95,7 @@ More production-like demos are coming soon.
 
 * 🎓 **Engineering degree, Cloud Computing & Networks** — EPI Digital School, Sousse *(in progress)*
 * 🎓 **Bachelor's degree** — ISITCOM, Hammam Sousse
-* 📜 **Certification:** AWS Academy Graduate
+* 📜 **Certification:** AWS Academy Graduate — Cloud Foundations
 
 ---
 
@@ -112,6 +115,7 @@ Arabic (native) · English (B2) · French (B1, improving)
 
 ## 🤝 Let's connect
 
+* 💼 LinkedIn: [linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/amira-salah-940086265/?isSelfProfile=true)
 * 🧑‍💻 GitHub: [github.com/amirasalah01](https://github.com/amirasalah01)
 * 📧 Email: [salahamira358@gmail.com](mailto:salahamira358@gmail.com)
 
