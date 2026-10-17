@@ -25,9 +25,10 @@ I enjoy taking an application from code to a reliable deployment, and understand
 * Azure DevOps
 * Linux (Ubuntu)
 
-### 📦 Containers
+### 📦 Containers & Orchestration
 * Docker
 * Docker Compose
+* Kubernetes (kind) & Helm
 
 ### 🔁 DevOps & CI/CD
 * GitHub Actions
@@ -35,6 +36,7 @@ I enjoy taking an application from code to a reliable deployment, and understand
 * GitLab CI
 * Jenkins
 * Trivy
+* Falco (runtime security)
 
 ### 🌐 Systems & Networking
 * DNS (BIND9), DHCP
@@ -71,14 +73,13 @@ I enjoy taking an application from code to a reliable deployment, and understand
 ## 📂 Featured projects
 
 | Project | Description | Stack |
-
+|---|---|---|
+| [**k8s-security-monitoring-lab**](https://github.com/amirasalah01/k8s-security-monitoring-lab) | Runtime intrusion detection on Kubernetes: Falco rules mapped to MITRE ATT&CK, Grafana SOC dashboard and Slack alerting through n8n | Kubernetes · Falco · Loki · Grafana · n8n · Helm |
+| [**azure-devops-cicd-pipeline**](https://github.com/amirasalah01/azure-devops-cicd-pipeline) | 6-stage Azure pipeline for a Django + React + PostgreSQL app: Trivy scan, database backup, test deployment and approval-gated production | Azure Pipelines · Trivy · Django · React · PostgreSQL |
+| [**n8n-hr-automation**](https://github.com/amirasalah01/n8n-hr-automation) | HR onboarding and leave-approval workflows with automatic document generation and Slack notifications | n8n · Airtable · Gmail API · Google Docs · Slack |
 | [**rentify**](https://github.com/amirasalah01/ren) | Cloud-native rental platform on a Multi-AZ AWS architecture, with a CI/CD pipeline that includes security scanning and monitoring | AWS · GitHub Actions · Trivy · Docker · Prometheus · Grafana |
-| [**azure-devops-cicd-demo**](https://github.com/amirasalah01/azure-devops-cicd-demo) | Multi-stage Azure pipeline for a Django + React + PostgreSQL app, with test and production environments and manual approval | Azure Pipelines · Django · React · PostgreSQL |
-| [**n8n-hr-automation** HR onboarding and leave-approval workflows with automatic document generation and Slack notifications | n8n · Airtable · Gmail API · Google Docs · Slack |
-| [**cloudnotes-cicd** Containerized Flask app with GitLab CI and Jenkins pipelines | Flask · Docker Compose · GitLab CI · Jenkins |
-| [**linux-server-labs** Linux server administration: DNS, DHCP, Samba, Apache HTTPS, SSH hardening and firewall | Ubuntu · BIND9 · Apache · UFW |
 
-More production-like demos are coming soon.
+More projects coming soon: CloudNotes CI/CD (GitLab CI, Jenkins) and Linux server labs.
 
 ---
 
@@ -95,13 +96,17 @@ More production-like demos are coming soon.
 
 * 🎓 **Engineering degree, Cloud Computing & Networks** — EPI Digital School, Sousse *(in progress)*
 * 🎓 **Bachelor's degree** — ISITCOM, Hammam Sousse
-* 📜 **Certification:** AWS Academy Graduate — Cloud Foundations
+* 📜 **Certifications:**
+  * AWS Academy Graduate — Cloud Foundations
+  * AWS Academy Graduate — Cloud Security Foundations
+  * Cisco — Networking Fundamentals
+  * UiPath — RPA Developer
 
 ---
 
 ## 🌱 Currently learning
 
-* Kubernetes & Helm
+* Kubernetes security (Falco, Wazuh, Sigma rules)
 * Infrastructure as Code with Terraform
 * GitOps practices
 
@@ -115,7 +120,7 @@ Arabic (native) · English (B2) · French (B1, improving)
 
 ## 🤝 Let's connect
 
-* 💼 LinkedIn: [linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/amira-salah-940086265/?isSelfProfile=true)
+* 💼 LinkedIn: [linkedin.com/in/amira-salah-940086265](https://www.linkedin.com/in/amira-salah-940086265/)
 * 🧑‍💻 GitHub: [github.com/amirasalah01](https://github.com/amirasalah01)
 * 📧 Email: [salahamira358@gmail.com](mailto:salahamira358@gmail.com)
 
